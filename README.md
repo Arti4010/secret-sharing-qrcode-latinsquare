@@ -1,0 +1,1 @@
+# secret-sharing-qrcode-latinsquare
